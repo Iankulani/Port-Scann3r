@@ -72,3 +72,8 @@ The scanner uses connection timeouts to quickly identify closed ports
 Thread pool size can be adjusted based on your system capabilities
 
 Maximum threads capped at 500 to prevent system overload
+
+
+# 🌟 Star History
+
+
