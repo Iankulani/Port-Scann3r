@@ -2,28 +2,7 @@
 Port-Scann3r
 
 
-# Compile the program:
 
-```bash
-javac PortScanner.java
-Run with basic usage:
-```
-
-bash
-java PortScanner 192.168.1.1
-Scan specific port range:
-
-```bash
-java PortScanner 127.0.0.1 -p 1-1000
-Custom timeout and threads:
-```
-```bash
-java PortScanner 8.8.8.8 -p 80,443 -t 500 -th 50
-Export results to file:
-```
-```bash
-java PortScanner 192.168.1.100 -export scan_results.txt
-```
 # Example Output:
 
 text
@@ -72,6 +51,29 @@ The scanner uses connection timeouts to quickly identify closed ports
 Thread pool size can be adjusted based on your system capabilities
 
 Maximum threads capped at 500 to prevent system overload
+
+# Compile the program:
+
+```bash
+javac PortScanner.java
+Run with basic usage:
+```
+
+bash
+java PortScanner 192.168.1.1
+Scan specific port range:
+
+```bash
+java PortScanner 127.0.0.1 -p 1-1000
+Custom timeout and threads:
+```
+```bash
+java PortScanner 8.8.8.8 -p 80,443 -t 500 -th 50
+Export results to file:
+```
+```bash
+java PortScanner 192.168.1.100 -export scan_results.txt
+```
 
 
 # 🌟 Star History
