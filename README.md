@@ -1,4 +1,16 @@
 # Port-Scann3r
+
+[![GitHub stars](https://img.shields.io/github/stars/Iankulani/Port-Scann3r?style=for-the-badge&logo=github)](https://github.com/Iankulani/Port-Scann3r/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Iankulani/Port-Scann3r?style=for-the-badge&logo=github)](https://github.com/Iankulani/Port-Scann3r/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/Iankulani/Port-Scann3r?style=for-the-badge&logo=github)](https://github.com/Iankulani/Port-Scann3r/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/Iankulani/Port-Scann3r?style=for-the-badge&logo=github)](https://github.com/Iankulani/Port-Scann3r/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Iankulani/Port-Scann3r?style=for-the-badge&logo=git)](https://github.com/Iankulani/Port-Scann3r/commits/main)
+[![License](https://img.shields.io/github/license/Iankulani/Port-Scann3r?style=for-the-badge)](https://github.com/Iankulani/Port-Scann3r/blob/main/LICENSE)
+[![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Iankulani/Port-Scann3r)
+[![Port Scanner](https://img.shields.io/badge/Port%20Scanner-Network%20Security-blue?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://github.com/Iankulani/Port-Scann3r)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Network%20Scanning-purple?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Iankulani/Port-Scann3r)
+[![Multithreading](https://img.shields.io/badge/Multithreading-Supported-green?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Iankulani/Port-Scann3r)
+
 Port-Scann3r
 
 
